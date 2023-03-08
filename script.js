@@ -1,5 +1,5 @@
 
-//s
+//ok
 async function getWeather()
 {
     
