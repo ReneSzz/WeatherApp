@@ -25,5 +25,6 @@ View real-time weather updates for the entered location.<br>
 
 If the location is invalid, an error message is displayed.<br>
 
-## Deployment check out the live version on github pages 
+## Deployment
+check out the live version on github pages 
 https://reneszz.github.io/WeatherApp/
